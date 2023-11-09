@@ -31,7 +31,7 @@ Bachelor of Computer Science
 
 ---
 
-**W O R K &nbsp;&nbsp;&nbsp;&nbsp; E X P E R I E N C E**
+**W O R K** &nbsp;&nbsp;&nbsp;&nbsp; **E X P E R I E N C E**
 
 : * **Togo Digital Agency** &nbsp;&nbsp;&nbsp;&nbsp; Lead Developer &nbsp;&nbsp;&nbsp;&nbsp; Jun 2022 – Now
 
