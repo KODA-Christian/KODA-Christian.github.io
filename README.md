@@ -6,14 +6,14 @@ iamchristiankoda@gmail.com
 
 +228-970-340-13
 
-Can speak French and English
+Speak native French and fluent English
 
 
 ---
 
 **S K I L L S**
 
-JavaScript, Dart, NodeJS, Java, Rust, C, C++
+JavaScript, Dart, NodeJS, Rust, C, C++
 
 TotalJS, Flutter, React, Laravel
 
@@ -31,7 +31,7 @@ Bachelor of Computer Science
 
 ---
 
-**W O R K&nbsp;&nbsp;&nbsp;&nbsp;E X P E R I E N C E**
+**W O R K &nbsp;&nbsp;&nbsp;&nbsp; E X P E R I E N C E**
 
 : * **Togo Digital Agency** &nbsp;&nbsp;&nbsp;&nbsp; Lead Developer &nbsp;&nbsp;&nbsp;&nbsp; Jun 2022 – Now
 
